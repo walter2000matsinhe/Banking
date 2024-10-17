@@ -13,7 +13,7 @@ const Home = () => {
             title="Welcome"
             user={loggedIn?.firstName || 'Guest'}
             subtext ="Access and manage your account and transaction effeciently."
-          />
+          />  
           <TotalBalanceBox
             accounts={[]} 
             totalBanks={1}
