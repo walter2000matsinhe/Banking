@@ -17,4 +17,7 @@
     "lib": "@/lib",
     "hooks": "@/hooks"
   }
+  {
+    "security.allowSvgs": true
+  }
 }

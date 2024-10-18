@@ -43,7 +43,7 @@ const SideBar = ({user}:SiderbarProps) => {
               })}
             >
               <div className="relative"
-              size-6>
+              size-6="true">
                 <Image
                 src={item.imgURL}
                 alt={item.label}
